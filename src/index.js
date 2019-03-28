@@ -94,7 +94,7 @@ let styles = StyleSheet.create({
 
   buttonText: {
     fontSize: 50,
-    color: '#007aff',
+    color: '#ff8800',
     fontFamily: 'Arial',
   },
 })
